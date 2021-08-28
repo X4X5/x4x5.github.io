@@ -11,3 +11,9 @@ X4X5 here, and this is recorded documentation on how to configure the mod correc
 4. Press "L" until you get back to the main menu. Scroll then all the way to "Edit partners"
 5. "Press "R" to select, and scroll using d-pad left and right to set Luna to the desired level. Press R to select, the L until you're completely out of the menu.
 6. At this point, use the partner menu to select your partner, and Luna should be with Mario now!
+
+## Help! Project64 crashed on me when I tried to start the mod!
+1. Go to the Options menu in PJ64, then choose Settings. Make sure the Hide advanced settings checkbox is turned off.
+2. Right-click on the rom in the rom list, and choose Edit Game Settings. 
+3. In the game settings dialog, select Recompiler in the list on the left side, then make sure the Register caching checkbox is off.
+4. The rom should now run fine. Enjoy the game!
